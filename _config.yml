@@ -1,15 +1,16 @@
 # Created by Jekyll Writer
-title: 'awesome '
-author: qn'lz
+title: Your awesome title
+author: Jekyll Writer
 description: >
   This theme is disigned based on Mailbox Blog, and licensed under MIT. This
   theme is also default theme for new site created by Jekyll Writer.
+baseurl: /blog
 permalink: '/:year/:month/:day/:title/'
-paginate: 10
+paginate: 6
 paginate_path: '/page/:num/'
-twitter_username: qnlz
-github_username: qnlz
+twitter_username: jekyllwriter
+github_username: jekyllwriter
 gems:
   - jekyll-paginate
 markdown: kramdown
-baseurl: /blog
+url: ''
